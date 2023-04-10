@@ -1,4 +1,4 @@
-# Document Vectorization and Semantic Search
+# Document Vectorization and Semantic Search (WIP)
 This is a Python-based project that allows users to upload documents, which are then saved into a vector database. The project uses natural language processing (NLP) techniques to convert each document into a vector representation. These vectors are then used to provide a semantic search, which allows users to search for and retrieve relevant documents based on their content.
 
 # Getting Started
@@ -23,6 +23,7 @@ To get started with this project, you will need to have Python installed on your
 - sklearn
 - nltk
 - pinecone
+
 Once you have installed these packages, you can clone this repository to your local machine:
 
 Once you have accessed the application, you can upload documents by clicking on the "Upload Document" button. This will allow you to select a document from your local machine and upload it to the server.
