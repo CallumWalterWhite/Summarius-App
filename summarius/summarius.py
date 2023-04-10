@@ -1,12 +1,10 @@
 import os
 import glob
 import docx2txt
-import spacy
 import numpy as np
 from client import PineconeClient
 from sklearn.feature_extraction.text import TfidfVectorizer
 import re
-import torch
 from transformers import BartForConditionalGeneration, BartTokenizer
 
 max_features = 1024
