@@ -23,6 +23,7 @@ To get started with this project, you will need to have Python installed on your
 - sklearn
 - nltk
 - pinecone
+
 Once you have installed these packages, you can clone this repository to your local machine:
 
 Once you have accessed the application, you can upload documents by clicking on the "Upload Document" button. This will allow you to select a document from your local machine and upload it to the server.
